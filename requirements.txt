@@ -1,4 +1,4 @@
 streamlit==0.88.0
-scikit-learn==0.24.2  # Example ML library
-tensorflow==2.6.0    # Example DL library
-# Add other dependencies as needed
+scikit-learn==0.24.2 
+tensorflow==2.6.0  
+
