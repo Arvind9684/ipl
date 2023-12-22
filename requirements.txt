@@ -1,4 +1,4 @@
-streamlit==1.29.0
+streamlit<5 and >=4.3.0
 scikit-learn==0.24.2 
-tensorflow==2.6.0  
+tensorflow~=3.7.4  
 
